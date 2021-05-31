@@ -1,0 +1,25 @@
+@import url(./vendor/normalize.css);
+
+@import url(./blocks/page/page.css);
+
+@import url(./blocks/date-value/date-value.css);
+@import url(./blocks/date-value/_invisible/date-value_invisible.css);
+
+@import url(./blocks/calendar/calendar.css);
+@import url(./blocks/calendar/__typeChoice/calendar__typeChoice.css);
+@import url(./blocks/calendar/__typeChoice/_invisible/calendar__typeChoice_invisible.css);
+@import url(./blocks/calendar/_invisible/calendar_invisible.css);
+@import url(./blocks/calendar/__year-container/calendar__year-container.css);
+@import url(./blocks/calendar/__year/calendar__year.css);
+@import url(./blocks/calendar/__month-container/calendar__month-container.css);
+
+@import url(./blocks/month/month.css);
+@import url(./blocks/month/__title-container/month__title-container.css);
+@import url(./blocks/month/__title/month__title.css);
+@import url(./blocks/month/__days-container/month__days-container.css);
+
+@import url(./blocks/day/day.css);
+@import url(./blocks/day/__number/day__number.css);
+@import url(./blocks/day/__number/_dayoff/day__number_dayoff.css);
+@import url(./blocks/day/_type/day_type_active.css);
+@import url(./blocks/day/_type/day_type_simple.css);

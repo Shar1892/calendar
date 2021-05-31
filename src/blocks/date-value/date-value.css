@@ -1,0 +1,13 @@
+.date-value {
+	margin: 0;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 17px;
+	color: #0055bb;
+}
+
+.date-value:hover {
+	color: #313e78;
+	text-decoration: underline;
+	cursor: pointer;
+}

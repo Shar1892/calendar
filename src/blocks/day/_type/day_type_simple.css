@@ -1,0 +1,11 @@
+.day_type_simple {
+  width: 35px;
+  height: 35px;
+  background-color: #f4f4f4;
+  border: 2px solid #f4f4f4;
+}
+
+.day_type_simple:hover {
+  cursor: pointer;
+  background-color: #c6c7d6;
+}

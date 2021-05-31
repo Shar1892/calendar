@@ -1,0 +1,12 @@
+.day_type_active {
+	width: 39px;
+	height: 39px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #c6c7d6;
+}
+
+.day_type_active:hover {
+	cursor: pointer;
+}
