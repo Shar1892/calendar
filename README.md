@@ -14,6 +14,10 @@
 - CSS (Flexbox, Grid)
 - jS, React.js
 
+Для развертывания клонируем репозиторий git clone, устанавливаем зависимости npm install.
+
+Ссылка на гитхаб https://github.com/Shar1892/calendar
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
